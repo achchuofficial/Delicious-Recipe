@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+}
+
+.header {
+  background-color: rgb(212, 209, 209);
+  display: flex;
+  align-items: baseline;
+  padding: .5rem;
+  gap: 1rem;
+  justify-content: flex-end;
+}
+
+.logo img {
+    position: relative;
+    width: 150px;
+    float:left;
+    margin-top:16px;
+    cursor: pointer;
